@@ -1,0 +1,85 @@
+E:\EF\new 1\new 1\bin\ApplicationInsights.config
+E:\EF\new 1\new 1\bin\roslyn\csc.exe
+E:\EF\new 1\new 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EF\new 1\new 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EF\new 1\new 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EF\new 1\new 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EF\new 1\new 1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EF\new 1\new 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EF\new 1\new 1\bin\roslyn\System.Collections.Immutable.dll
+E:\EF\new 1\new 1\bin\roslyn\System.Reflection.Metadata.dll
+E:\EF\new 1\new 1\bin\roslyn\vbc.exe
+E:\EF\new 1\new 1\bin\roslyn\VBCSCompiler.exe
+E:\EF\new 1\new 1\bin\roslyn\VBCSCompiler.exe.config
+E:\EF\new 1\new 1\bin\new 1.dll.config
+E:\EF\new 1\new 1\bin\new 1.dll
+E:\EF\new 1\new 1\bin\new 1.pdb
+E:\EF\new 1\new 1\bin\Antlr3.Runtime.dll
+E:\EF\new 1\new 1\bin\EntityFramework.dll
+E:\EF\new 1\new 1\bin\EntityFramework.SqlServer.dll
+E:\EF\new 1\new 1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\EF\new 1\new 1\bin\Microsoft.AI.DependencyCollector.dll
+E:\EF\new 1\new 1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\EF\new 1\new 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\EF\new 1\new 1\bin\Microsoft.AI.Web.dll
+E:\EF\new 1\new 1\bin\Microsoft.AI.WindowsServer.dll
+E:\EF\new 1\new 1\bin\Microsoft.ApplicationInsights.dll
+E:\EF\new 1\new 1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\EF\new 1\new 1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EF\new 1\new 1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\EF\new 1\new 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EF\new 1\new 1\bin\Microsoft.Owin.dll
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Security.dll
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Security.Google.dll
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\EF\new 1\new 1\bin\Microsoft.Web.Infrastructure.dll
+E:\EF\new 1\new 1\bin\Newtonsoft.Json.dll
+E:\EF\new 1\new 1\bin\Owin.dll
+E:\EF\new 1\new 1\bin\System.Web.Helpers.dll
+E:\EF\new 1\new 1\bin\System.Web.Mvc.dll
+E:\EF\new 1\new 1\bin\System.Web.Optimization.dll
+E:\EF\new 1\new 1\bin\System.Web.Razor.dll
+E:\EF\new 1\new 1\bin\System.Web.WebPages.Deployment.dll
+E:\EF\new 1\new 1\bin\System.Web.WebPages.dll
+E:\EF\new 1\new 1\bin\System.Web.WebPages.Razor.dll
+E:\EF\new 1\new 1\bin\WebGrease.dll
+E:\EF\new 1\new 1\bin\Microsoft.AI.DependencyCollector.xml
+E:\EF\new 1\new 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\EF\new 1\new 1\bin\Microsoft.AI.Web.xml
+E:\EF\new 1\new 1\bin\Microsoft.AI.WindowsServer.xml
+E:\EF\new 1\new 1\bin\Microsoft.ApplicationInsights.xml
+E:\EF\new 1\new 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EF\new 1\new 1\bin\System.Web.Helpers.xml
+E:\EF\new 1\new 1\bin\System.Web.Mvc.xml
+E:\EF\new 1\new 1\bin\System.Web.Optimization.xml
+E:\EF\new 1\new 1\bin\System.Web.Razor.xml
+E:\EF\new 1\new 1\bin\System.Web.WebPages.xml
+E:\EF\new 1\new 1\bin\System.Web.WebPages.Deployment.xml
+E:\EF\new 1\new 1\bin\System.Web.WebPages.Razor.xml
+E:\EF\new 1\new 1\bin\Antlr3.Runtime.pdb
+E:\EF\new 1\new 1\bin\Newtonsoft.Json.xml
+E:\EF\new 1\new 1\bin\EntityFramework.xml
+E:\EF\new 1\new 1\bin\EntityFramework.SqlServer.xml
+E:\EF\new 1\new 1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\EF\new 1\new 1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\EF\new 1\new 1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EF\new 1\new 1\bin\Microsoft.Owin.xml
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Security.xml
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Security.Google.xml
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\EF\new 1\new 1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\EF\new 1\new 1\obj\Debug\new 1.dll
+E:\EF\new 1\new 1\obj\Debug\new 1.pdb
+E:\EF\new 1\new 1\obj\Debug\new 1.csprojResolveAssemblyReference.cache
+E:\EF\new 1\new 1\obj\Debug\new_1.Migrations.init1.resources
+E:\EF\new 1\new 1\obj\Debug\new 1.csproj.GenerateResource.Cache
+E:\EF\new 1\new 1\obj\Debug\new_1.Migrations.init2.resources
