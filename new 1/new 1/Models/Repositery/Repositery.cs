@@ -60,6 +60,18 @@ namespace new_1.Models.Repositery
                 disposed = true;
             }
         }
+
+        public void Update(T entity)
+        {
+            _context.Entry<T>(entity).State = EntityState.Modified;
+ 
+        }
+
+        public void Delete(int id)
+        {
+            DbSet.Remove(DbSet.Find(id));
+            
+        }
     }
 
 

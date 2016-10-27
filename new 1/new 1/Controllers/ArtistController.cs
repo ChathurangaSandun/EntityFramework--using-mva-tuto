@@ -46,6 +46,44 @@ namespace new_1.Controllers
             return View();
         }
 
+        public ActionResult Edit(int id)
+        {
+
+            Artist artist = repositery.Get(id);
+            if (artist == null)
+            {
+                return HttpNotFound();
+
+            }
+            else
+            {
+                return View(artist);
+            }
+
+
+        }
+
+
+        [HttpPost()]
+        public ActionResult Edit(Artist artist)
+        {
+
+            if (!ModelState.IsValid)
+            {
+                return View(artist);
+            }
+
+
+            repositery.Update(artist);
+            repositery.SaveChanges();
+            return RedirectToAction("Create");
+
+
+        }
+
+
+
+
         [HttpPost()]
         public ActionResult Create(Artist artist)
         {
