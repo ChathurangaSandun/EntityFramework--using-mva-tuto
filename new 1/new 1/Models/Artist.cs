@@ -19,6 +19,11 @@ namespace new_1.Models
         public string Name { get; set; }
 
 
+        [Timestamp]
+        public byte[] RowVersion { get; set; }
+
+
+
         public virtual List<Album> Albums { get; set; }
         public virtual ArtistDetails ArtistDetails{ get; set; }
 
