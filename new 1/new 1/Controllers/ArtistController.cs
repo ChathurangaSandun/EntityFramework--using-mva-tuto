@@ -62,5 +62,11 @@ namespace new_1.Controllers
 
 
         }
+
+        protected override void Dispose(bool disposing)
+        {
+            repositery.Dispose();
+            base.Dispose(disposing);
+        }
     }
 }

@@ -11,6 +11,8 @@ namespace new_1.Models.Repositery
     {
 
         private MusicStoreDataContext _context ;
+        private bool disposed;
+
 
         protected DbSet<T>  DbSet
         {
@@ -48,6 +50,15 @@ namespace new_1.Models.Repositery
         public void SaveChanges()
         {
             _context.SaveChanges();
+        }
+
+        public void Dispose()
+        {
+            if (!disposed)
+            {
+                _context.Dispose();
+                disposed = true;
+            }
         }
     }
 
